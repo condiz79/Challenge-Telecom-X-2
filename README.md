@@ -1,13 +1,13 @@
 # Challenge-Telecom-X-2
 Repositorio con proyecto de Challenge Telecom X 2
 
-# Challenge 3 - Data Science LATAM: Predicci贸n de Cancelaci贸n de Clientes (Churn)
+# Challenge 3 - Data Science LATAM: Predicción de Cancelación de Clientes (Churn)
 
 Este proyecto forma parte del programa **Oracle Next Education** en colaboraci贸n con **Alura LATAM**. El objetivo principal es desarrollar modelos de machine learning que permitan predecir la cancelaci贸n de clientes (churn) en una empresa ficticia de telecomunicaciones llamada **TelecomX**.
 
 ## Objetivo
 
-Anticipar que clientes tienen mayor probabilidad de cancelar sus servicios, con el fin de implementar estrategias de retenci贸n efectivas.
+Anticipar que clientes tienen mayor probabilidad de cancelar sus servicios, con el fin de implementar estrategias de retención efectivas.
 
 ## Archivos del proyecto
 
