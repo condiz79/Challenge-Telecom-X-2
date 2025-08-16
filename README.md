@@ -5,59 +5,59 @@ Repositorio con proyecto de Challenge Telecom X 2
 
 Este proyecto forma parte del programa **Oracle Next Education** en colaboraci贸n con **Alura LATAM**. El objetivo principal es desarrollar modelos de machine learning que permitan predecir la cancelaci贸n de clientes (churn) en una empresa ficticia de telecomunicaciones llamada **TelecomX**.
 
-## 馃幆 Objetivo
+## Objetivo
 
-Anticipar qu茅 clientes tienen mayor probabilidad de cancelar sus servicios, con el fin de implementar estrategias de retenci贸n efectivas.
+Anticipar que clientes tienen mayor probabilidad de cancelar sus servicios, con el fin de implementar estrategias de retenci贸n efectivas.
 
-## 馃搧 Archivos del proyecto
+## Archivos del proyecto
 
 - `TelecomX_Data_tratado.csv`: conjunto de datos preprocesado.
 - `Telecom_X2_Notebook.ipynb`: notebook con el pipeline de modelado.
 - `Telecom_X2_Secciones.docx`: documento explicativo con secciones del notebook.
 - `README.md`: documentaci贸n del proyecto.
 
-## 馃攳 An谩lisis y Preprocesamiento
+## Análisis y Preprocesamiento
 
-- An谩lisis exploratorio de datos (EDA).
-- Codificaci贸n de variables categ贸ricas.
-- Normalizaci贸n de variables num茅ricas.
-- An谩lisis de correlaci贸n entre variables.
-- Balanceo de clases mediante t茅cnicas como oversampling.
+- Análisis exploratorio de datos (EDA).
+- Codificación de variables categóricas.
+- Normalización de variables numéricas.
+- Análisis de correlación entre variables.
+- Balanceo de clases mediante técnicas como oversampling.
 
-## 馃 Modelos Utilizados
+## Modelos Utilizados
 
-Se entrenaron y evaluaron los siguientes modelos de clasificaci贸n:
+Se entrenaron y evaluaron los siguientes modelos de clasificación:
 
-- Regresi贸n Log铆stica
-- 脕rbol de Decisi贸n
+- Regresión Logística
+- Árbol de Decisión
 - Random Forest
 - K-Nearest Neighbors (KNN)
 
-## 馃搳 M茅tricas de Evaluaci贸n
+## Mátricas de Evaluación
 
 - Accuracy
 - Precision
 - Recall
 - F1-score
-- Matriz de Confusi贸n
+- Matriz de Confusión
 
-## 馃搱 Visualizaciones
+## Visualizaciones
 
-- Matriz de correlaci贸n entre variables.
-- Importancia de variables en modelos de 谩rbol.
-- Gr谩ficos de desempe帽o de modelos.
+- Matriz de correlación entre variables.
+- Importancia de variables en modelos de árbol.
+- Gráficos de desempeño de modelos.
 
-## 馃挕 Conclusiones
+## Conclusiones
 
-- Se identificaron variables clave que influyen en la cancelaci贸n de clientes.
-- El modelo de Random Forest present贸 el mejor desempe帽o general.
-- Se proponen estrategias de retenci贸n basadas en los insights obtenidos.
+- Se identificaron variables clave que influyen en la cancelación de clientes.
+- El modelo de Random Forest presenta el mejor desempeño general.
+- Se proponen estrategias de retención basadas en los insights obtenidos.
+ó
+## Recomendaciones Futuras
 
-## 馃 Recomendaciones Futuras
-
-- Implementar modelos en producci贸n para monitoreo en tiempo real.
-- Realizar an谩lisis de cohortes y segmentaci贸n de clientes.
-- Explorar modelos m谩s avanzados como XGBoost o LightGBM.
+- Implementar modelos en produccin para monitoreo en tiempo real.
+- Realizar análisis de cohortes y segmentación de clientes.
+- Explorar modelos más avanzados como XGBoost o LightGBM.
 
 ---
 
